@@ -4,7 +4,11 @@
 - [Name]
 =======
 - [Oddballlnner] (https://github.com/Oddballlnner)
+<<<<<<< HEAD
 >>>>>>> new-branch
+=======
+- [Abubakr Hisham](https://github.com/abubakr404/)
+>>>>>>> 8611ac2e39c3027f813a25f37b1e9da557deb353
 - [Krigo Liu] (https://github.com/Krigo-Liu)
 - [Aryan Karayi] (https://github.com/aryankarayi)
 - [Ankitjt] (https://github.com/ankitjt)
@@ -17,6 +21,7 @@
 - [Raihan Shezan] (https://github.com/RaihanShezan)
 - [Arshad Sheik]
 - [PRINCE DOSHI]
+- [Nicholas Hwang]
 - [Farooq Javed] (https://github.com/farooqjaved)
 - [Siddhant Patil] (https://github.com/Sid-Pat)
 - [Soumik Saha] (https://github.com/soumik-saha)
